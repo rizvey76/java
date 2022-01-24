@@ -1,0 +1,58 @@
+[INFO ] 2021-04-03 20:00:44.855 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+[INFO ] 2021-04-03 20:00:59.476 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+[INFO ] 2021-04-03 20:01:15.875 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 10 Where Value Of Interval Is 2 : 25
+[INFO ] 2021-04-03 20:18:40.311 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+[INFO ] 2021-04-03 21:07:16.830 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+[INFO ] 2021-04-03 21:08:28.597 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+[INFO ] 2021-04-03 21:08:46.649 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+[INFO ] 2021-04-03 21:09:01.673 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 10 Where Value Of Interval Is =2 : 25
+[INFO ] 2021-04-03 21:13:15.803 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-03 21:14:08.829 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-03 21:14:18.398 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-03 21:14:34.950 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 5 Where Value Of Interval Is =2 : 9
+
+[INFO ] 2021-04-03 21:24:51.495 [main] CallEvenSumService - Sum Of Even Numbers between 10 And 2 is: 0
+
+[INFO ] 2021-04-03 21:25:10.673 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-03 21:25:31.729 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-03 21:25:45.993 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 10 Where Value Of Interval Is =2 : 25
+
+[INFO ] 2021-04-03 21:39:22.054 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-03 21:39:35.434 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-03 21:39:52.042 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 2 Where Value Of Interval Is 3 : 1
+
+[INFO ] 2021-04-03 21:40:16.441 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 5 Where Value Of Interval Is 3 : 5
+
+[INFO ] 2021-04-03 21:45:10.893 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 25 is: 156
+
+[INFO ] 2021-04-03 22:43:49.475 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-03 22:44:16.790 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-03 22:44:36.965 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 10 Where Value Of Interval Is 2 : 25
+
+[INFO ] 2021-04-05 15:05:42.041 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-05 15:05:52.685 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-05 15:14:59.964 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 2 is: 2
+
+[INFO ] 2021-04-05 15:24:33.744 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-05 15:24:51.956 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+
+[INFO ] 2021-04-05 15:25:07.211 [main] CallSeriesSumService - Sum Of Series Numbers between 1 And 10 Where Value Of Interval Is 2 : 25
+
+[INFO ] 2021-04-07 09:42:01.916 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 09:42:17.105 [main] CallEvenSumService - Sum Of Even Numbers between 1 And 100 is: 2550
+
+[INFO ] 2021-04-07 09:42:27.610 [main] CallOddSumService - Sum Of Odd Numbers between 1 And 100 is: 2500
+

@@ -1,0 +1,16 @@
+[INFO ] 2021-04-03 14:00:50.581 [main] CalculatorMain - This is information
+[WARN ] 2021-04-03 14:00:50.585 [main] CalculatorMain - This is warning
+[ERROR] 2021-04-03 14:00:50.585 [main] CalculatorMain - This is error
+[FATAL] 2021-04-03 14:00:50.586 [main] CalculatorMain - This is fatal
+[INFO ] 2021-04-03 14:13:53.391 [main] CalculatorMain - This is information
+[WARN ] 2021-04-03 14:13:53.397 [main] CalculatorMain - This is warning
+[ERROR] 2021-04-03 14:13:53.397 [main] CalculatorMain - This is error
+[FATAL] 2021-04-03 14:13:53.397 [main] CalculatorMain - This is fatal
+[INFO ] 2021-04-03 15:38:10.850 [main] CalculatorMain - This is information:  22
+[WARN ] 2021-04-03 15:38:10.855 [main] CalculatorMain - This is warning
+[ERROR] 2021-04-03 15:38:10.856 [main] CalculatorMain - This is error
+[FATAL] 2021-04-03 15:38:10.856 [main] CalculatorMain - This is fatal
+[INFO ] 2021-04-03 15:38:35.997 [main] CalculatorMain - This is information:  22
+[WARN ] 2021-04-03 15:38:36.001 [main] CalculatorMain - This is warning
+[ERROR] 2021-04-03 15:38:36.001 [main] CalculatorMain - This is error
+[FATAL] 2021-04-03 15:38:36.001 [main] CalculatorMain - This is fatal
